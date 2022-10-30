@@ -1,2 +1,5 @@
-menyelesaikan pembelajaran WPU - github (21 vidio)
-menyelesaikan pembelajaran tutorial visual studio code ( 7 vidio )
+menyelesaikan pembelajaran WPU - github
+  - #1 apa itu git $ github ?
+  - #2 bekerja dengan github
+  - #3 github : branch
+menyelesaikan pembelajaran WPU - tutorial visual studio code
