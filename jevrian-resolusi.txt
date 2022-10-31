@@ -8,6 +8,10 @@ menyelesaikan pembelajaran WPU - github
   - #7 git merge conflict
   - #8 git remote
   - #9 github pages
-  
-  
-menyelesaikan pembelajaran WPU - tutorial visual studio code
+  - #10 multiple remote
+  - #11 remote branch
+  - #12 gitignore
+  - #13 git rebase
+  - #14 git & web hosting
+   
+   === telah terselesaikan ===
