@@ -1,5 +1,10 @@
 menyelesaikan pembelajaran WPU - github
-  - #1 apa itu git $ github ?
+  - #1 apa itu git $ github
   - #2 bekerja dengan github
   - #3 github : branch
+  - #4 github : Fork
+  - #5 bekerja dengan git
+  - #6 git branch & marge
+  - #7 git merge conflict
+  
 menyelesaikan pembelajaran WPU - tutorial visual studio code
