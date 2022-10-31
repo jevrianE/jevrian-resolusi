@@ -6,5 +6,8 @@ menyelesaikan pembelajaran WPU - github
   - #5 bekerja dengan git
   - #6 git branch & marge
   - #7 git merge conflict
+  - #8 git remote
+  - #9 github pages
+  
   
 menyelesaikan pembelajaran WPU - tutorial visual studio code
